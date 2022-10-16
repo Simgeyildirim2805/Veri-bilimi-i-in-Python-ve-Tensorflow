@@ -1,1 +1,1 @@
-# Veri-bilimi-i-in-Python-ve-Tensorflow
+# Veri-bilimi-icin-Python-ve-Tensorflow
